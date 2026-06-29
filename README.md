@@ -22,7 +22,11 @@ The workflow intentionally keeps a human in the loop by generating Gmail drafts 
 
 ## Workflow
 
-*(Add your workflow screenshot here.)*
+The workflow below was built around a real AI practitioner event using representative attendee data to protect attendee privacy while demonstrating the automation. It downloads attendee information from Google Drive, converts the data into structured JSON, uses OpenAI to generate personalized follow-up emails, and creates Gmail drafts for human review before sending.
+
+<img width="1927" height="1131"
+     alt="Workflow for generating personalized follow-up emails from the Breakfast with Agents event using n8n, OpenAI, Google Drive, and Gmail"
+     src="https://github.com/user-attachments/assets/810abad2-7763-4d1e-ab53-130c4a1be9ba" />
 
 ---
 
