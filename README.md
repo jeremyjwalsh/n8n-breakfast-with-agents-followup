@@ -59,6 +59,13 @@ https://breakfastwithagents.com/event/breakfast-with-agents-finance-nyc-april-20
 - Contact enrichment
 - Automated approval workflow
 
+- ## Why I Built This
+
+n8n's application encouraged applicants to build a first workflow.
+Rather than creating a generic demo, I used a real AI networking event that I attended ("Breakfast with Agents") as inspiration.
+The workflow demonstrates how AI can reduce repetitive follow-up work while intentionally keeping a human in the review loop by creating Gmail drafts instead of automatically sending emails.ﬁ
+This project reflects the type of practical AI adoption work I've spent much of my career helping customers achieve.
+
 ---
 
 Built by Jeremy Walsh
